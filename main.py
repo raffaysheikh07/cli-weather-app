@@ -33,7 +33,7 @@ while True:
             params=params,
             timeout=10,
         )
-        response.raise_for_status()
+        
         data = response.json()
 
         if response.status_code == 200:
