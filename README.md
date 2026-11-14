@@ -138,15 +138,6 @@ cli-weather-app/
 
 ---
 
-## Ideas for future improvements
-
-- Show humidity and wind speed
-- Add a 5-day forecast
-- Let the user choose Celsius or Fahrenheit
-- Split the code into functions and add tests
-
----
-
 ## Author
 
 Abdul Raffay, [GitHub](https://github.com/raffaysheikh07)
